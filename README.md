@@ -43,6 +43,7 @@ Jezyki_Skryptowe_Proj_2ID12A_Kacper_Grabalski_Krzysztof_Giemza
 ├── test_gran.py     # Testy graniczne
 ├── test_wyda.py  # Testy wydajności
 ├── test_pam.py       # Testy pamięci
+├── test_jak.py       # Testy jakości
 └── library_data.json    # Baza danych (automatycznie tworzona)
 
 #Przykładowe użycie
